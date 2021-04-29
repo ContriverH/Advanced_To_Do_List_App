@@ -1,2 +1,4 @@
 # Advanced_To_Do_List_App
-Created with CodeSandbox
+## Write the to do work in the input field and press "Add" button.
+## Click on the item once to cross it.
+## Now double click to delete the content from the list items.
